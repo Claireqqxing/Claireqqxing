@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Claireqqxing
-- 👀 I’m interested in Project-based Language learning
-- 🌱 I’m currently learning knowledge of Scientific and Technological Communication
-- 💞️ I’m looking to collaborate on teaching English through scientific and engineering projects
+- 👀 I’m interested in project-based language learning
+- 🌱 I’m currently learning skills of Scientific and Technological Communication
+- 💞️ I’m looking to collaborate to teach English through scientific and engineering projects
 - 📫 How to reach me: claireqqxing@ust.hk
 
 <!---
