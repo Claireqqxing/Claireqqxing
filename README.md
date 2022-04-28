@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Claireqqxing
+- 👋 Hi, I’m Claire (Qingqing) XING
 - 👀 I’m interested in project-based language learning
 - 🌱 I’m currently learning skills of Scientific and Technological Communication
 - 💞️ I’m looking to collaborate to teach English through scientific and engineering projects
